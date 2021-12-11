@@ -3,7 +3,7 @@
 - :earth_india: I’m currently learning more about Data and sharing some of my work here.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  :office: [LinkedIn](https://www.linkedin.com/in/archit-joshi-a27627172/)
+:office: [LinkedIn](https://www.linkedin.com/in/archit-joshi-a27627172/)
   
 
 
